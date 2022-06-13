@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\bin\Debug\net6.0\BackendBankingApplication.exe
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\bin\Debug\net6.0\BackendBankingApplication.deps.json
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\bin\Debug\net6.0\BackendBankingApplication.runtimeconfig.json
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\bin\Debug\net6.0\BackendBankingApplication.dll
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\bin\Debug\net6.0\BackendBankingApplication.pdb
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.AssemblyInfo.cs
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.dll
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\refint\BackendBankingApplication.dll
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.pdb
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\BackendBankingApplication.genruntimeconfig.cache
+C:\Users\maria\source\repos\BackendBankingApplication\BackendBankingApplication\obj\Debug\net6.0\ref\BackendBankingApplication.dll
